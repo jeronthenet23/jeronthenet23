@@ -1,0 +1,17 @@
+# Ignore everything
+*
+
+# Allow only these
+!README.md
+!posts/
+!posts/**
+!.gitignore
+
+# 🔒 Block secrets EVEN inside allowed folders
+.env
+*.env
+*.key
+*.pem
+*.secret
+*.password
+keys.txt
