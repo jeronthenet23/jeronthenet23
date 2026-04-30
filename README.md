@@ -25,7 +25,7 @@ Homelab enthusiast and maker based in Georgetown, CA. I run a self-hosted media 
 - [sonarr-season-cleanup](https://github.com/jeronthenet23/sonarr-season-cleanup) — automatically removes older seasons from Sonarr to save disk space
 - [bambu-protect-overlay](https://github.com/jeronthenet23/bambu-protect-overlay) — fork of mtnears/bambu-protect-overlay, contributed Linux/Debian networking docs
 
-## Currently working on
+## What I run
 
 - Nvidia T400 GPU installed -- NVENC hardware transcoding active in Emby
 - UniFi VLAN firewall rules
