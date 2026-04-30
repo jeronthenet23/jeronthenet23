@@ -27,5 +27,5 @@ Homelab enthusiast and maker based in Georgetown, CA. I run a self-hosted media 
 
 ## Currently working on
 
-- Nvidia T1000 GPU for Emby hardware transcoding
+- Nvidia T400 GPU installed -- NVENC hardware transcoding active in Emby
 - UniFi VLAN firewall rules
